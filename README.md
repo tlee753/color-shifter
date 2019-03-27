@@ -11,4 +11,4 @@ dual tone, categorical based color converter for pictures
 ![profile](./profile.jpg)
 
 ### after
-![profile](./profile-shifter.jpg)
+![profile](./profile-shifted.jpg)
