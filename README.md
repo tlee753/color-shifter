@@ -7,6 +7,16 @@ dual tone, categorical based color converter for pictures
 - dark color (hex)
 - light color (hex)
 
+### usage requirements
+- python3
+- PIL
+`pip3 install Pillow`
+- numpy
+`pip3 install numpy`
+
+### known bugs
+- certain categorial values error (16) due to hacky math
+
 ### before
 ![profile](./profile.jpg)
 
