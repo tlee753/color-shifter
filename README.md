@@ -7,6 +7,9 @@ dual tone, categorical based color converter for pictures
 - dark color (hex)
 - light color (hex)
 
+### additional modifications
+- if you are so inclined you can manually adjust categories to have a specific color (I like making the 0/lowest category a dark color for a cool effect as shown below)
+
 ### usage requirements
 - python3
 - PIL
@@ -16,6 +19,8 @@ dual tone, categorical based color converter for pictures
 
 ### known bugs
 - certain categorial values error (16) due to hacky math
+
+# demo
 
 ### before
 ![profile](./profile.jpg)
